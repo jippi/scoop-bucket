@@ -1,0 +1,29 @@
+{
+    "version": "0.0.10",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/jippi/dottie/releases/download/v0.0.10/dottie_Windows_i386.zip",
+            "bin": [
+                "dottie.exe"
+            ],
+            "hash": "37940062b98dffb1141385ca980ac00f36a029374358228f5f336bc1b0437a11"
+        },
+        "64bit": {
+            "url": "https://github.com/jippi/dottie/releases/download/v0.0.10/dottie_Windows_x86_64.zip",
+            "bin": [
+                "dottie.exe"
+            ],
+            "hash": "fdf5183f4c67ce1b0c930d9e0c3db260becf93dce6f5cabc9721fa73a17cb2ce"
+        },
+        "arm64": {
+            "url": "https://github.com/jippi/dottie/releases/download/v0.0.10/dottie_Windows_arm64.zip",
+            "bin": [
+                "dottie.exe"
+            ],
+            "hash": "39357edbdd1269af2262b5c5f7c20ba18fbb63fbbbc66841bff56dbb67d994e4"
+        }
+    },
+    "homepage": "https://github.com/jippi/dottie",
+    "license": "MIT",
+    "description": "Make working with .env files easier"
+}
