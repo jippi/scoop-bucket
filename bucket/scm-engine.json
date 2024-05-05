@@ -1,26 +1,26 @@
 {
-    "version": "0.0.2",
+    "version": "0.0.3",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/jippi/scm-engine/releases/download/v0.0.2/scm-engine_Windows_i386.zip",
+            "url": "https://github.com/jippi/scm-engine/releases/download/v0.0.3/scm-engine_Windows_i386.zip",
             "bin": [
                 "scm-engine.exe"
             ],
-            "hash": "7e50749ebc56b52b5c8c5ab8d1650600c6ec31e946c45aa498874f7d5a281272"
+            "hash": "1860622109dc3528803e712cd249e823e9a34b2cf553b2f70ce02ed2a60c5e14"
         },
         "64bit": {
-            "url": "https://github.com/jippi/scm-engine/releases/download/v0.0.2/scm-engine_Windows_x86_64.zip",
+            "url": "https://github.com/jippi/scm-engine/releases/download/v0.0.3/scm-engine_Windows_x86_64.zip",
             "bin": [
                 "scm-engine.exe"
             ],
-            "hash": "ace3ffe5e239b754378edb2245533284eb416840a5188353cc7ee8efb2681f9a"
+            "hash": "18cb5b26c99079efa98ea96a51afd08f2265a6279fd5f960376592de850846f1"
         },
         "arm64": {
-            "url": "https://github.com/jippi/scm-engine/releases/download/v0.0.2/scm-engine_Windows_arm64.zip",
+            "url": "https://github.com/jippi/scm-engine/releases/download/v0.0.3/scm-engine_Windows_arm64.zip",
             "bin": [
                 "scm-engine.exe"
             ],
-            "hash": "9b97e67f600553c83f00f873724d73bf49e82f33e1161e825e89f18944b99a4f"
+            "hash": "8ae3a7eb6cb5fdc36c2ef80a7768b63cbc91326fce5a5890e0ce2cdd3d900aa3"
         }
     },
     "homepage": "https://github.com/jippi/scm-engine",
